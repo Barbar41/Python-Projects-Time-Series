@@ -1,5 +1,5 @@
 #################################
-#### AIRLINE PASSNGER FORECASTING 
+#### AIRLINE PASSENGER FORECASTING 
 
 1-Visualization of Data
 
